@@ -1,0 +1,8 @@
+{
+  "name": "Remix Sistem Pemantauan Administrasi Guru \u0026 Pegawai - TKIT Mutiara Islam Palopo",
+  "description": "Sistem informasi pemantauan, verifikasi, dan pelaporan kelengkapan administrasi guru dan pegawai TKIT Mutiara Islam Palopo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
